@@ -68,38 +68,37 @@ const Index = () => (
         <Subtitle>Technical leader, designer at heart, and dog lover living and working in San Francisco.</Subtitle>
       </Hero>
       <Projects offset={1}>
-        <Title>Portfolio</Title>
+        <Title>Experience</Title>
         <ProjectsWrapper>
           <ProjectCard
-            title="Bank Of The West"
+            title="Bank Of The West (2019)"
             link="https://www.bankofthewest.com"
             bg="linear-gradient(to right, #383838	 0%, #151313 100%)"
           >
             Senior Digital Product Management for bankofthewest.com.
           </ProjectCard>
           <ProjectCard
-            title="Ally Financial"
+            title="Ally Financial (2012-2019)"
             link="https://www.ally.com"
             bg="linear-gradient(to right, #383838	 0%, #151313 100%)"
-          >
-            Ally.com Director of Development, AI/Chatbot Technical Program Manager, Technical Delivery Manager, Lead JavaScript/UI Developer
+          >Ally.com Director of Development, AI/Chatbot Technical Program Manager, Technical Delivery Manager, Lead JavaScript/UI Developer
           </ProjectCard>
           <ProjectCard
-            title="Wave Motion Digital"
+            title="Wave Motion Digital (2008-2012)"
             link="https://wavemotiondigital.com/"
             bg="linear-gradient(to right, #383838	 0%, #151313 100%)"
           >
             Senior Web Developer working for dozens of non-profit clients, such as American Cancer Society Action Network, APCO International, and New Israel Fund. 
           </ProjectCard>
           <ProjectCard
-            title="The Vanguard Group"
+            title="The Vanguard Group (2006-2007)"
             link="https://www.vanguard.com"
             bg="linear-gradient(to right, #383838	 0%, #151313 100%)"
           >
             UI and Java developer. Technical Business System Analayst. 
           </ProjectCard>
           <ProjectCard
-            title="IBM"
+            title="IBM (2005-2006)"
             link="https://www.ibm.com"
             bg="linear-gradient(to right, #383838	 0%, #151313 100%)"
           >
