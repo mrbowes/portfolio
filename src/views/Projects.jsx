@@ -11,7 +11,6 @@ const Projects = ({ children, offset }) => (
   <>
     <DividerMiddle
       bg="linear-gradient(to right, #99badd 70%, #99badd 100%)"
-
       speed={-0.2}
       offset={`${offset}.1`}
       factor={2}
