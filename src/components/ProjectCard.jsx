@@ -12,6 +12,7 @@ const Wrapper = styled.a`
     transform: translateY(-5px);
   }
 `
+// background: ${props => props.bg};
 
 const Text = styled.div`
   ${tw`opacity-75 font-sans text-sm md:text-base`};
