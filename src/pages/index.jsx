@@ -17,7 +17,7 @@ import Projects from '../views/Projects'
 import About from '../views/About'
 import Contact from '../views/Contact'
 
-import avatar from '../images/me-photo.jpeg'
+import avatar from '../images/me-photo-tree.jpg'
 
 const ProjectsWrapper = styled.div`
   ${tw`flex flex-wrap justify-between mt-8`};
@@ -110,7 +110,7 @@ const Index = () => (
         <Title>About</Title>
         <AboutHero>
           <Avatar src={avatar} alt="John Doe" />
-          <AboutSub> Dog lover. Tarheel basketball fan. Musician and music lover (especially 60s soul and The Beatles). 80s kid. Child at heart. Ameteur traditional artist (graphite and watercolor). Passionate about good design. </AboutSub>
+          <AboutSub>80s kid. Pretend musician.  Aspiring digital and traditional artist. Passionate about good design and technology. Studied computer science at NCSU and worked as a professional developer and digital leader since 2004 for both large enterprises and small, non-profit organizations. Sometimes have good ideas.</AboutSub>
         </AboutHero>
         <AboutDesc>
           {/* Timeline:
